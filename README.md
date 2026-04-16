@@ -4,7 +4,7 @@ Goal of this task is to learn how to do some minor clean up and processing of da
 For this task, we will use the Titanic dataset. This data comes from a Kaggle competition (https://www.kaggle.com/competitions/titanic/overview)
 Links to an external site. Dataset -- train.csv
 
-Variable    	Definition    	                                         Key
+Variable    	Definition    	                                        Key
 survival    	Survival    	                                      0 = No, 1 = Yes
 pclass        Ticket class    	                                  1 = 1st, 2 = 2nd, 3 = 3rd
 sex        	  Sex    	 
